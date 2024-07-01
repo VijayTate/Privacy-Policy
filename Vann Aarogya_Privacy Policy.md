@@ -3,7 +3,7 @@
 
 
 #                                                                                   PRIVACY POLICY
-**Last updated:** February 16, 2024
+**Last updated:** June 16, 2024
 
 The Vann Aarogya mobile application is designed, developed and maintained by Wildlife Conservation Trust, Mumbai, India (WCT). This application is developed to be used by forest staff to facilitate first-aid and signposting during medical emergencies encountered in the field as well as for capacity building and health awareness.
 
